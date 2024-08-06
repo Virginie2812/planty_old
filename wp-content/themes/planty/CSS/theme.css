@@ -1,0 +1,59 @@
+* {
+	font-family: 'syne', sans-serif;
+	}
+ /*header*/
+ li.menu-item a {
+    color:  black !important;
+    display: inline-block;
+    padding: 10px 25px;
+    text-align: center;
+ }
+ 
+ li.menu-item a:hover,
+ li.menu-item.current-menu-item a {
+    color: white !important;
+    background:#D2776A;
+    text-decoration: none !important;
+ }
+ #section-inner   {
+   background-color: #ece2da;
+   padding: 10px;
+   border-bottom-right-radius: 30%;
+   border-bottom-left-radius: 30%;
+ }
+
+ #post-inner #thin{
+   background:#3B8E46;
+   ;
+   padding: 10px;
+   border-bottom-right-radius: 30%;
+   border-bottom-left-radius: 30%;
+ }
+ /* footer*/
+ #site-footer.footer {
+    padding: 20px;
+    color: #000000 !important;
+    text-align: center;
+ 
+}
+ /*p {
+   background-color: #ece2da;
+   padding: 20px;
+   border-bottom-right-radius: 20%;
+   border-bottom-left-radius: 20%;
+ }
+*/
+ h1 {
+    color:#3B8E46;
+    ;
+ }
+h2{
+    color: #3B8E46;
+    ;
+}
+
+#wp-block-image {
+   text-align: center;
+   font-size: 25px;
+
+}
